@@ -1,0 +1,113 @@
+.App-header {
+  background-color: white;
+  height: auto;
+  color: white;
+}
+.haeder{
+  width: 100%;
+  height: 100px;
+  float: left;
+  // border: 2px solid red;
+}
+
+
+
+
+
+
+
+
+
+
+.varients{
+  width: 1200px;
+  height: 7500px;
+  margin: 0 auto;
+  // border: 2px solid black;
+}
+.tshirt-list{
+  width: 240px;
+  height: auto;
+  // border: 2px solid red;
+  float: left;
+  // margin: 0.8%;
+  padding: 16px;
+  position: relative;
+}
+.tshirt-list:hover{
+  box-shadow: 2px 5px #888888;
+
+}
+.product-img{
+  width: 100%;
+  height: 250px;
+  float: left;
+  img{
+    width: 100%;
+  }
+}
+.info{
+  width: 90%;
+  height: auto;
+  float: left;
+  // border: 2px solid orangered;
+  padding: 10px;
+}
+.brand-name{
+  color: black;
+  width: 100%;
+  height: 10px;
+  font-size: 16px;
+  font-weight: 700;
+}
+.offer-token{
+  width: 20%;
+  background-color: #FC216A;
+  color: white;
+  font-size: 12px;
+  padding: 1px;
+  position: absolute;
+  top: 20px;
+  left: 16px;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+.cart{
+  color: black;
+  position: absolute;
+  font-size: 16px;
+  padding: 2px 6px;
+  border-radius: 6px;
+  background-color: white;
+  right: 20px;
+  top: 20px;
+}
+.description{
+  color: black;
+  height: 5px;
+  font-size: 13px;
+}
+.price{
+  height: 2px;
+  color: black;
+  font-size: 16px;
+  font-weight: 600;
+  span{
+    color: rgba(0,0,0,0.4);
+    font-size: 13px;
+    padding-left: 8px;
+  }
+}
+.product-rating{
+  float: left;
+  font-size: 12px;
+  color: black;
+  border: 0.3px solid rgba(0,0,0,0.4);
+  border-radius: 10px;
+  padding: 2px 4px;
+  font-weight: 600;
+  i{
+    color: green;
+    padding: 2px 2px 2px 4px;
+  }
+}
