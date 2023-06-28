@@ -10,15 +10,203 @@ class Listrender extends React.Component {
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt',                   
+                    price: 4000,
+                    originalprice: 2999,
+                    rating: '2.1',
+                    offer: 20,
+                    cart: '',
+                    image: 'https://images.bewakoof.com/t640/men-s-red-ethnic-motif-printed-shirt-591296-1683036574-1.jpg'
+                },
+                {
+                    id: 2,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 6000,
+                    originalprice: 1999,
+                    rating: '4.8',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-grey-shirt-597368-1687273443-1.jpg'
+                },
+                {
+                    id: 3,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 4000,
+                    originalprice: 2999,
+                    rating: '1.8',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-white-abstract-printed-shirt-602293-1687866861-1.jpg'
+                },
+                {
+                    id: 4,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 6000,
+                    originalprice: 2999,
+                    rating: '2.8',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-multicolor-printed-shirt-602294-1687866791-1.jpg'
+                },
+                {
+                    id: 5,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 8000,
+                    originalprice: 2999,
+                    rating: '3.8',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-black-striped-shirt-602295-1687867012-1.jpg'
+                },
+                {
+                    id: 6,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 3000,
+                    originalprice: 1999,
+                    rating: '1.8',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-multicolor-color-block-shirt-602289-1687866899-1.jpg'
+                },
+                {
+                    id: 7,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 4000,
+                    originalprice: 2999,
+                    rating: '2.9',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-floral-print-shirt-602290-1687866823-1.jpg'
+                },
+                {
+                    id: 8,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 9000,
+                    originalprice: 2999,
+                    rating: '3.3',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-orange-tie-dye-printed-shirt-602292-1687866974-1.jpg'
+                },
+                {
+                    id: 9,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 4000,
+                    originalprice: 2999,
+                    rating: '1.9',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-multicolor-marble-print-shirt-602286-1687866753-1.jpg'
+                },
+                {
+                    id: 10,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 3000,
+                    originalprice: 999,
+                    rating: '2.6',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-rhino-grey-shirt-601272-1687532129-1.JPG'
+                },
+                {
+                    id: 11,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 4000,
+                    originalprice: 1099,
+                    rating: '1.2',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-grey-checked-slim-fit-shirt-595287-1685452862-1.jpg'
+                },
+                {
+                    id: 12,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 3000,
+                    originalprice: 1009,
+                    rating: '2.9',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-iron-grey-shirt-601275-1687532438-1.JPG'
+                },
+                {
+                    id: 13,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 5000,
+                    originalprice: 2999,
+                    rating: '3.0',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-white-shirt-601276-1687532167-1.JPG'
+                },
+                {
+                    id: 14,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 5000,
+                    originalprice: 2999,
+                    rating: '3.2',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-dark-green-shirt-601267-1687532395-1.JPG'
+                },
+                {
+                    id: 15,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 5000,
+                    originalprice: 2999,
+                    rating: '2.8',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-white-striped-shirt-597393-1687272418-1.jpg'
+                },
+                {
+                    id: 16,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 5000,
+                    originalprice: 2999,
+                    rating: '4.8',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-red-checked-slim-fit-shirt-595275-1685454259-1.jpg'
+                },
+                {
+                    id: 17,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 5000,
+                    originalprice: 2999,
+                    rating: '1.8',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-floral-printed-shirt-597362-1687272602-1.jpg'
+                },
+                {
+                    id: 18,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt',                   
                     price: 5000,
                     originalprice: 2999,
                     rating: '2.1',
                     offer: 20,
                     cart: '',
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/d/6/b/-original-imaggcq8d2a4ryk7.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-grey-checked-slim-fit-shirt-595287-1685452862-1.jpg'
                 },
                 {
-                    id: 2,
+                    id: 19,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -26,10 +214,10 @@ class Listrender extends React.Component {
                     originalprice: 1999,
                     rating: '4.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/l4vnbm80/t-shirt/c/e/q/m-askporgfp82490-new-allen-solly-original-imagfzk7h3zccp4k.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-pink-striped-shirt-591699-1683295086-1.jpg'
                 },
                 {
-                    id: 3,
+                    id: 20,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -37,10 +225,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '1.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/l3j2cnk0/t-shirt/2/w/p/l-723-2-5-7-8-ftx-original-imagemgrpafdug8v.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-orange-slim-fit-shirt-595844-1686060652-1.jpg'
                 },
                 {
-                    id: 4,
+                    id: 21,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -48,10 +236,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '2.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/kkh6zrk0/t-shirt/w/j/n/m-t344hs-whsb-new-eyebogler-original-imafztgjdpkvr8ab.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-checked-slim-fit-shirt-595801-1686057140-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 22,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -59,10 +247,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '3.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/t/e/0/l-st-theboys-black-smartees-original-imagnqszzzzyuzru.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-caramel-shirt-597391-1687273182-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 23,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -70,10 +258,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '1.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/i/5/h/s-bg23tsssbk4085-bglore-original-imagn9xczghahg6y.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-white-striped-shirt-597369-1687273142-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 24,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -81,10 +269,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '2.9',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/l/h/x/s-ts12-vebnor-original-imagm6zvj4wrmyng.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-multicolour-printed-shirt-597379-1687272712-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 25,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -92,10 +280,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '3.3',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/b/r/g/s-cmb-po2-dab-wynk-smartees-original-imagm5vhumtz8epz.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-checked-shirt-597377-1687273629-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 26,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -103,10 +291,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '1.9',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/o/w/p/s-dddl-blkk-jam-veirdo-original-imaghenyxmsghs4u.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-black-printed-shirt-597371-1687272487-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 27,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -114,10 +302,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '2.6',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/1/v/a/-original-imagmf6weawvkkrg.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-pink-leaf-printed-shirt-597348-1687273553-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 28,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -125,10 +313,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '1.2',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/9/w/d/s-ts9-vebnor-original-imagztfphtggssry.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-white-checked-shirt-597931-1687272526-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 29,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -136,10 +324,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '2.9',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/m/e/2/m-558399-bewakoof-original-imagz4r5gwnjxgxg.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-white-shirt-597364-1687272380-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 30,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -147,10 +335,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '3.0',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/i/b/g/s-half-triangel-black-one-nb-nicky-boy-original-imagmhzyv6b64vfb.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-striped-shirt-597366-1687272450-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 31,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -158,10 +346,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '3.2',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/b/0/v/l-tbgrrn-d45-tripr-original-imagza9znc7nhfhj.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-printed-shirt-597358-1687273367-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 32,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -169,10 +357,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '2.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/h/l/h/xl-atkpcurgfx68063-allen-solly-original-imagnfuygt29mhdh.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-shirt-597357-1687273667-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 33,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -180,10 +368,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '4.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/y/0/5/s-bmrhenful-z14-blive-original-imaghau6cw8g3gjy.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-black-striped-shirt-597353-1687273515-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 34,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -191,10 +379,44 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '1.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/s/c/s/s-gt-4-dyrectdeals-original-imagmg9x3wackb7a.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-coco-tree-printed-shirt-597351-1687273214-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 35,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt',                   
+                    price: 5000,
+                    originalprice: 2999,
+                    rating: '2.1',
+                    offer: 20,
+                    cart: '',
+                    image: 'https://images.bewakoof.com/t640/men-s-grey-slim-fit-shirt-595777-1686058728-1.jpg'
+                },
+                {
+                    id: 36,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 5000,
+                    originalprice: 1999,
+                    rating: '4.8',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-brown-paisley-printed-slim-fit-shirt-595875-1686061651-1.jpg'
+                },
+                {
+                    id: 37,
+                    name: 'U.S Polo Assn.',
+                    discription: 'U.S Polo Assn. Dark Green',
+                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    price: 5000,
+                    originalprice: 2999,
+                    rating: '1.8',
+                    offer: 20,
+                    image: 'https://images.bewakoof.com/t640/men-s-purple-slim-fit-shirt-595776-1686056897-1.jpg'
+                },
+                {
+                    id: 38,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -202,21 +424,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '2.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/y/t/k/xxs-t653-cgblwh-eyebogler-original-imaghyjv7kppbqxb.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-green-paisley-printed-slim-fit-shirt-595874-1686059551-1.jpg'
                 },
                 {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '4.8',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/kxaq7ww0/t-shirt/m/b/v/m-dbmst-try-this-original-imag9rk6mztquknz.jpeg?q=70'
-                },
-                {
-                    id: 5,
+                    id: 39,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -224,10 +435,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '3.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/s/k/x/xl-ts12-vebnor-original-imagppbxjkdhyghw.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-green-slim-fit-shirt-595775-1686059090-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 40,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -235,98 +446,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '1.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/l31x2fk0/t-shirt/w/x/h/m-hmd-1057black-helmont-original-image92fpxqsncuu.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-slim-fit-shirt-595779-1686060109-1.jpg'
                 },
                 {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '4.8',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/x/2/q/s-or17-technosport-original-imagkx8wrb7k3puc.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '2.8',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/s/c/p/m-db1024-15-3bros-original-imagz8zjfxthf7kn.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '3.2',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/b/0/v/l-tbgrrn-d45-tripr-original-imagza9znc7nhfhj.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '2.8',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/h/l/h/xl-atkpcurgfx68063-allen-solly-original-imagnfuygt29mhdh.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '4.8',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/y/0/5/s-bmrhenful-z14-blive-original-imaghau6cw8g3gjy.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '1.8',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/s/c/s/s-gt-4-dyrectdeals-original-imagmg9x3wackb7a.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '2.8',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/y/t/k/xxs-t653-cgblwh-eyebogler-original-imaghyjv7kppbqxb.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '4.8',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/kxaq7ww0/t-shirt/m/b/v/m-dbmst-try-this-original-imag9rk6mztquknz.jpeg?q=70'
-                },
-                {
-                    id: 5,
+                    id: 41,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -334,10 +457,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '2.9',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/l/h/x/s-ts12-vebnor-original-imagm6zvj4wrmyng.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-grey-paisley-printed-slim-fit-shirt-595878-1686059472-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 42,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -345,10 +468,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '3.3',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/b/r/g/s-cmb-po2-dab-wynk-smartees-original-imagm5vhumtz8epz.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-paisley-printed-slim-fit-shirt-595877-1686057059-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 43,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -356,10 +479,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '1.9',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/o/w/p/s-dddl-blkk-jam-veirdo-original-imaghenyxmsghs4u.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-green-slim-fit-shirt-595774-1686059402-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 44,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -367,10 +490,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '2.6',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/1/v/a/-original-imagmf6weawvkkrg.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-white-striped-slim-fit-shirt-595871-1686055781-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 45,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -378,10 +501,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '1.2',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/9/w/d/s-ts9-vebnor-original-imagztfphtggssry.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-slim-fit-shirt-595773-1686057335-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 46,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -389,10 +512,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '2.9',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/m/e/2/m-558399-bewakoof-original-imagz4r5gwnjxgxg.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-striped-slim-fit-shirt-595870-1686059943-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 47,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -400,10 +523,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '3.0',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/i/b/g/s-half-triangel-black-one-nb-nicky-boy-original-imagmhzyv6b64vfb.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-slim-fit-shirt-595869-1686057411-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 48,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -411,10 +534,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '3.2',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/b/0/v/l-tbgrrn-d45-tripr-original-imagza9znc7nhfhj.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-olive-green-shirt-597359-1687273744-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 49,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -422,32 +545,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '2.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/s/c/p/m-db1024-15-3bros-original-imagz8zjfxthf7kn.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-checked-slim-fit-shirt-595808-1686059434-1.jpg'
                 },
                 {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '3.2',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/b/0/v/l-tbgrrn-d45-tripr-original-imagza9znc7nhfhj.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '2.8',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/h/l/h/xl-atkpcurgfx68063-allen-solly-original-imagnfuygt29mhdh.jpeg?q=70'
-                },
-                {
-                    id: 5,
+                    id: 50,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -455,10 +556,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '4.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/y/0/5/s-bmrhenful-z14-blive-original-imaghau6cw8g3gjy.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-brown-checked-shirt-597354-1687274118-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 51,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -466,120 +567,33 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '1.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/s/c/s/s-gt-4-dyrectdeals-original-imagmg9x3wackb7a.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-black-slim-fit-shirt-595915-1686056062-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 52,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
+                    subdiscription: 'Regular Fit Cotton Shirt',                   
                     price: 5000,
                     originalprice: 2999,
-                    rating: '2.8',
+                    rating: '2.1',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/y/t/k/xxs-t653-cgblwh-eyebogler-original-imaghyjv7kppbqxb.jpeg?q=70'
+                    cart: '',
+                    image: 'https://images.bewakoof.com/t640/men-s-white-all-over-paisley-printed-shirt-594692-1685344457-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 53,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
-                    originalprice: 2999,
+                    originalprice: 1999,
                     rating: '4.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/kxaq7ww0/t-shirt/m/b/v/m-dbmst-try-this-original-imag9rk6mztquknz.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-all-over-floral-printed-shirt-594691-1685344611-1.jpg'
                 },
                 {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '2.9',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/l/h/x/s-ts12-vebnor-original-imagm6zvj4wrmyng.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '3.3',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/b/r/g/s-cmb-po2-dab-wynk-smartees-original-imagm5vhumtz8epz.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '1.9',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/o/w/p/s-dddl-blkk-jam-veirdo-original-imaghenyxmsghs4u.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '2.6',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/1/v/a/-original-imagmf6weawvkkrg.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '1.2',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/9/w/d/s-ts9-vebnor-original-imagztfphtggssry.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '2.9',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/m/e/2/m-558399-bewakoof-original-imagz4r5gwnjxgxg.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '3.0',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/i/b/g/s-half-triangel-black-one-nb-nicky-boy-original-imagmhzyv6b64vfb.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '3.2',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/b/0/v/l-tbgrrn-d45-tripr-original-imagza9znc7nhfhj.jpeg?q=70'
-                },
-                {
-                    id: 3,
+                    id: 54,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -587,10 +601,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '1.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/l3j2cnk0/t-shirt/2/w/p/l-723-2-5-7-8-ftx-original-imagemgrpafdug8v.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-black-slim-fit-shirt-595295-1685457011-1.jpg'
                 },
                 {
-                    id: 4,
+                    id: 55,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -598,10 +612,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '2.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/kkh6zrk0/t-shirt/w/j/n/m-t344hs-whsb-new-eyebogler-original-imafztgjdpkvr8ab.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-maroon-striped-shirt-596698-1686843758-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 56,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -609,10 +623,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '3.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/t/e/0/l-st-theboys-black-smartees-original-imagnqszzzzyuzru.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-checked-shirt-596679-1686843857-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 57,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -620,10 +634,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '1.8',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/i/5/h/s-bg23tsssbk4085-bglore-original-imagn9xczghahg6y.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-olive-green-shirt-596672-1686843022-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 58,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -631,10 +645,10 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '2.9',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/l/h/x/s-ts12-vebnor-original-imagm6zvj4wrmyng.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-blue-floral-print-shirt-602290-1687866823-1.jpg'
                 },
                 {
-                    id: 5,
+                    id: 59,
                     name: 'U.S Polo Assn.',
                     discription: 'U.S Polo Assn. Dark Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
@@ -642,7 +656,7 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '3.3',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/b/r/g/s-cmb-po2-dab-wynk-smartees-original-imagm5vhumtz8epz.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-pink-striped-shirt-597374-1687274253-1.jpg'
                 },
                 {
                     id: 5,
@@ -653,51 +667,7 @@ class Listrender extends React.Component {
                     originalprice: 2999,
                     rating: '1.9',
                     offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/o/w/p/s-dddl-blkk-jam-veirdo-original-imaghenyxmsghs4u.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '2.6',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/1/v/a/-original-imagmf6weawvkkrg.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '1.2',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/9/w/d/s-ts9-vebnor-original-imagztfphtggssry.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '2.9',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/m/e/2/m-558399-bewakoof-original-imagz4r5gwnjxgxg.jpeg?q=70'
-                },
-                {
-                    id: 5,
-                    name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
-                    subdiscription: 'Regular Fit Cotton Shirt', 
-                    price: 5000,
-                    originalprice: 2999,
-                    rating: '3.0',
-                    offer: 20,
-                    image: 'https://rukminim1.flixcart.com/image/612/612/xif0q/t-shirt/i/b/g/s-half-triangel-black-one-nb-nicky-boy-original-imagmhzyv6b64vfb.jpeg?q=70'
+                    image: 'https://images.bewakoof.com/t640/men-s-multicolor-marble-print-shirt-602286-1687866753-1.jpg'
                 },
             ]
         }
@@ -719,7 +689,7 @@ class Listrender extends React.Component {
                                 <div className="cart">{list.cart}<i class="fa fa-heart-o" aria-hidden="true"></i></div>
                                 <p className="description">{list.discription}</p>
                                 <p className="description">{list.subdiscription}</p>
-                                <p className="price">₹{list.price}<span><del>₹{list.originalprice}</del></span></p>
+                                <p className="price"><span className="rupee-color">₹</span>{list.price}<span className="del-price"><del>₹{list.originalprice}</del></span></p>
                                 <p className="product-rating">{list.rating}<i class="fa fa-star" aria-hidden="true"></i></p>
                              </div>
                         </div>

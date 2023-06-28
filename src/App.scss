@@ -3,11 +3,87 @@
   height: auto;
   color: white;
 }
-.haeder{
+.header{
   width: 100%;
-  height: 100px;
+  height: 60px;
+  // float: left;
+  margin: 0 auto;
+}
+.logo{
+  width: 25%;
+  height: 60px;
   float: left;
-  // border: 2px solid red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  img{
+    width: 50%;
+  }
+}
+.navigation{
+  width: 75%;
+  height: 60px;
+  float: left;
+  // border: 2px solid blue;
+  
+}
+.men-category, .women-category{
+  width: 15%;
+  height: 60px;
+  float: left;
+  color: rgba(0,0,0,0.6);
+  font-size: 12px;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form-input{
+  width: 40%;
+  height: 60px;
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  form{
+    width: 70%;
+    border: 0.3px solid black;
+    background-color: #EAEAEA;
+  }
+  input{
+    width: 84%;
+    border: none;
+    background-color: #EAEAEA;
+    padding: 2px;
+  }
+  i{
+    color: black;
+    padding: 6px;
+  }
+}
+.login-tag{
+  width: 13.5%;
+  height: 60px;
+  float: left;
+  color: rgba(0,0,0,0.6);
+  font-size: 12px;
+  font-weight: 700;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.indian-flag{
+  width: 13.5%;
+  height: 60px;
+  float: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  img{
+    width: 38px;
+    height: 38px;
+    border-radius: 20px;
+  }
 }
 
 
@@ -20,23 +96,26 @@
 
 
 .varients{
-  width: 1200px;
-  height: 7500px;
+  width: 100%;
+  height: 5100px;
   margin: 0 auto;
-  // border: 2px solid black;
 }
 .tshirt-list{
-  width: 240px;
+  width: 200px;
   height: auto;
   // border: 2px solid red;
   float: left;
-  margin: 1%;
+  margin: 0.8%;
   padding: 16px;
   position: relative;
 }
+.tshirt-list:hover{
+  // border: 0.3px solid black;
+  // background-color: lightgray;
+}
 .product-img{
   width: 100%;
-  height: 250px;
+  // height: 250px;
   float: left;
   img{
     width: 100%;
@@ -57,11 +136,11 @@
   font-weight: 700;
 }
 .offer-token{
-  width: 20%;
+  width: 30%;
   background-color: #FC216A;
   color: white;
   font-size: 12px;
-  padding: 1px;
+  padding: 1px 1px 1px 12px;
   position: absolute;
   top: 20px;
   left: 16px;
@@ -74,36 +153,41 @@
   font-size: 16px;
   padding: 2px 6px;
   border-radius: 6px;
-  background-color: white;
   right: 20px;
   top: 20px;
 }
 .description{
-  color: black;
+  color: #666666;
   height: 5px;
   font-size: 13px;
+}
+.rupee-color{
+  color: #666666;
+  font-weight: 400;
+  font-size: 16px;
 }
 .price{
   height: 2px;
   color: black;
   font-size: 16px;
   font-weight: 600;
-  span{
-    color: rgba(0,0,0,0.4);
-    font-size: 13px;
-    padding-left: 8px;
-  }
+}
+.del-price{
+  color: rgba(0,0,0,0.4);
+  font-size: 13px;
+  padding-left: 8px;
 }
 .product-rating{
   float: left;
-  font-size: 12px;
+  font-size: 10px;
   color: black;
   border: 0.3px solid rgba(0,0,0,0.4);
   border-radius: 10px;
-  padding: 2px 4px;
+  padding: 0.5px 2px;
   font-weight: 600;
   i{
     color: green;
-    padding: 2px 2px 2px 4px;
+    padding-left: 3px;
+    // padding: 2px 2px 2px 4px;
   }
 }
