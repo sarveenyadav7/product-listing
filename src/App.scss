@@ -32,7 +32,7 @@
   height: 60px;
   float: left;
   color: rgba(0,0,0,0.6);
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 700;
   display: flex;
   justify-content: center;
@@ -49,6 +49,7 @@
     width: 70%;
     border: 0.3px solid black;
     background-color: #EAEAEA;
+    border-radius: 6px;
   }
   input{
     width: 84%;
@@ -66,7 +67,7 @@
   height: 60px;
   float: left;
   color: rgba(0,0,0,0.6);
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 700;
   display: flex;
   justify-content: center;
@@ -97,26 +98,31 @@
 
 .varients{
   width: 100%;
-  height: 5100px;
-  margin: 0 auto;
+  height: auto;
+  float: left;
+  padding-bottom: 50px;
+  // border: 1px solid black;
 }
 .tshirt-list{
   width: 200px;
   height: auto;
-  // border: 2px solid red;
+  // border: 0px solid red;
   float: left;
   margin: 0.8%;
   padding: 16px;
   position: relative;
 }
 .tshirt-list:hover{
-  // border: 0.3px solid black;
-  // background-color: lightgray;
+  background-color: rgba(0,0,0,0.1);
+  border-radius: 10px;
+
+
 }
 .product-img{
   width: 100%;
-  // height: 250px;
   float: left;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
   img{
     width: 100%;
   }
@@ -125,7 +131,7 @@
   width: 90%;
   height: auto;
   float: left;
-  // border: 2px solid orangered;
+  // border: 1px solid orangered;
   padding: 10px;
 }
 .brand-name{
@@ -188,6 +194,75 @@
   i{
     color: green;
     padding-left: 3px;
-    // padding: 2px 2px 2px 4px;
   }
+}
+
+
+
+
+@media screen and (min-width: 320px) and (max-width: 500px){
+  .men-category, .women-category{
+    display: none;
+  }
+  .form-input{
+    width: 20%;
+    height: 60px;
+    margin-left: 100px;
+    form{
+      border: none;
+      background-color: #ffffff;
+    }
+    input{
+      display: none;
+    }
+  }
+  .logo{
+    img{
+      width: 90%;
+    }
+  }
+  .login-tag{
+    float: left;
+    margin-right: 10px;
+    
+  }
+  .tshirt-list{
+    width: 90%;
+    margin: 5%;
+    padding: 0;
+  }
+}
+
+@media screen and (min-width: 501px) and (max-width: 1100px){
+  .logo{
+    width: 20%;
+    img{
+      width: 90%;
+    }
+  }
+  .men-category, .women-category{
+  width: 13%;
+  font-size: 12px;
+}
+.form-input{
+  width: 48%;
+  form{
+    width: 80%;
+    border: none;
+    background-color: #ffffff;
+  }
+  input{
+    display: none;
+  }
+  i{
+    float: right;
+  }
+}
+.login-tag{
+  width: 13%;
+  font-size: 12px;
+}
+.indian-flag{
+  width: 13%;
+}
 }

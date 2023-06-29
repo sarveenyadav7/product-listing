@@ -680,9 +680,7 @@ class Listrender extends React.Component {
                 <div className="varients">
                     {this.state.clothsList.map((list) => (
                         <div className="tshirt-list" key={list.id}>
-                            {/* <div className="product-img"> */}
                                 <img src={list.image} className="product-img" alt="profile"></img>
-                            {/* </div> */}
                             <div className="info">
                                 <div className="brand-name">{list.name}</div>
                                 <div className="offer-token">{list.offer}% off</div>
