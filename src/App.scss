@@ -99,7 +99,8 @@
 .varients{
   width: 100%;
   height: auto;
-  float: left;
+  // float: left;
+  margin: 0 auto;
   padding-bottom: 50px;
   // border: 1px solid black;
 }
@@ -265,4 +266,17 @@
 .indian-flag{
   width: 13%;
 }
+.tshirt-list{
+  margin: 0;
+}
+}
+
+@media screen and (min-width: 1101px) and (max-width: 5000px){
+  .header{
+    width: 1280px;
+  }
+  .varients{
+    width: 1280px;
+  }
+
 }
