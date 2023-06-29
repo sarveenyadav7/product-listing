@@ -1,3 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .App-header {
   background-color: white;
   height: auto;
@@ -109,7 +114,6 @@
   height: auto;
   // border: 0px solid red;
   float: left;
-  margin: 0.8%;
   padding: 16px;
   position: relative;
 }
@@ -138,7 +142,6 @@
 .brand-name{
   color: black;
   width: 100%;
-  height: 10px;
   font-size: 16px;
   font-weight: 700;
 }
@@ -165,8 +168,7 @@
 }
 .description{
   color: #666666;
-  height: 5px;
-  font-size: 13px;
+  font-size: 12px;
 }
 .rupee-color{
   color: #666666;
@@ -174,7 +176,6 @@
   font-size: 16px;
 }
 .price{
-  height: 2px;
   color: black;
   font-size: 16px;
   font-weight: 600;
@@ -266,12 +267,12 @@
 .indian-flag{
   width: 13%;
 }
-.tshirt-list{
-  margin: 0;
-}
 }
 
 @media screen and (min-width: 1101px) and (max-width: 5000px){
+  .App{
+    background-color: black;
+  }
   .header{
     width: 1280px;
   }

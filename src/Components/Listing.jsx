@@ -8,7 +8,7 @@ class Listrender extends React.Component {
                 {
                     id: 1,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt',                   
                     price: 4000,
                     originalprice: 2999,
@@ -20,7 +20,7 @@ class Listrender extends React.Component {
                 {
                     id: 2,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 6000,
                     originalprice: 1999,
@@ -31,7 +31,7 @@ class Listrender extends React.Component {
                 {
                     id: 3,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 4000,
                     originalprice: 2999,
@@ -42,7 +42,7 @@ class Listrender extends React.Component {
                 {
                     id: 4,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 6000,
                     originalprice: 2999,
@@ -53,7 +53,7 @@ class Listrender extends React.Component {
                 {
                     id: 5,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 8000,
                     originalprice: 2999,
@@ -64,7 +64,7 @@ class Listrender extends React.Component {
                 {
                     id: 6,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 3000,
                     originalprice: 1999,
@@ -75,7 +75,7 @@ class Listrender extends React.Component {
                 {
                     id: 7,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 4000,
                     originalprice: 2999,
@@ -86,7 +86,7 @@ class Listrender extends React.Component {
                 {
                     id: 8,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 9000,
                     originalprice: 2999,
@@ -97,7 +97,7 @@ class Listrender extends React.Component {
                 {
                     id: 9,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 4000,
                     originalprice: 2999,
@@ -108,7 +108,7 @@ class Listrender extends React.Component {
                 {
                     id: 10,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 3000,
                     originalprice: 999,
@@ -119,7 +119,7 @@ class Listrender extends React.Component {
                 {
                     id: 11,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 4000,
                     originalprice: 1099,
@@ -130,7 +130,7 @@ class Listrender extends React.Component {
                 {
                     id: 12,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 3000,
                     originalprice: 1009,
@@ -141,7 +141,7 @@ class Listrender extends React.Component {
                 {
                     id: 13,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -152,7 +152,7 @@ class Listrender extends React.Component {
                 {
                     id: 14,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -163,7 +163,7 @@ class Listrender extends React.Component {
                 {
                     id: 15,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -174,7 +174,7 @@ class Listrender extends React.Component {
                 {
                     id: 16,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -185,7 +185,7 @@ class Listrender extends React.Component {
                 {
                     id: 17,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -196,7 +196,7 @@ class Listrender extends React.Component {
                 {
                     id: 18,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt',                   
                     price: 5000,
                     originalprice: 2999,
@@ -208,7 +208,7 @@ class Listrender extends React.Component {
                 {
                     id: 19,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 1999,
@@ -219,7 +219,7 @@ class Listrender extends React.Component {
                 {
                     id: 20,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -230,7 +230,7 @@ class Listrender extends React.Component {
                 {
                     id: 21,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -241,7 +241,7 @@ class Listrender extends React.Component {
                 {
                     id: 22,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -252,7 +252,7 @@ class Listrender extends React.Component {
                 {
                     id: 23,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -263,7 +263,7 @@ class Listrender extends React.Component {
                 {
                     id: 24,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -274,7 +274,7 @@ class Listrender extends React.Component {
                 {
                     id: 25,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -285,7 +285,7 @@ class Listrender extends React.Component {
                 {
                     id: 26,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -296,7 +296,7 @@ class Listrender extends React.Component {
                 {
                     id: 27,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -307,7 +307,7 @@ class Listrender extends React.Component {
                 {
                     id: 28,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -318,7 +318,7 @@ class Listrender extends React.Component {
                 {
                     id: 29,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -329,7 +329,7 @@ class Listrender extends React.Component {
                 {
                     id: 30,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -340,7 +340,7 @@ class Listrender extends React.Component {
                 {
                     id: 31,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -351,7 +351,7 @@ class Listrender extends React.Component {
                 {
                     id: 32,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -362,7 +362,7 @@ class Listrender extends React.Component {
                 {
                     id: 33,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -373,7 +373,7 @@ class Listrender extends React.Component {
                 {
                     id: 34,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -384,7 +384,7 @@ class Listrender extends React.Component {
                 {
                     id: 35,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt',                   
                     price: 5000,
                     originalprice: 2999,
@@ -396,7 +396,7 @@ class Listrender extends React.Component {
                 {
                     id: 36,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 1999,
@@ -407,7 +407,7 @@ class Listrender extends React.Component {
                 {
                     id: 37,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -418,7 +418,7 @@ class Listrender extends React.Component {
                 {
                     id: 38,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -429,7 +429,7 @@ class Listrender extends React.Component {
                 {
                     id: 39,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -440,7 +440,7 @@ class Listrender extends React.Component {
                 {
                     id: 40,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -451,7 +451,7 @@ class Listrender extends React.Component {
                 {
                     id: 41,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -462,7 +462,7 @@ class Listrender extends React.Component {
                 {
                     id: 42,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -473,7 +473,7 @@ class Listrender extends React.Component {
                 {
                     id: 43,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -484,7 +484,7 @@ class Listrender extends React.Component {
                 {
                     id: 44,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -495,7 +495,7 @@ class Listrender extends React.Component {
                 {
                     id: 45,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -506,7 +506,7 @@ class Listrender extends React.Component {
                 {
                     id: 46,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -517,7 +517,7 @@ class Listrender extends React.Component {
                 {
                     id: 47,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -528,7 +528,7 @@ class Listrender extends React.Component {
                 {
                     id: 48,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -539,7 +539,7 @@ class Listrender extends React.Component {
                 {
                     id: 49,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -550,7 +550,7 @@ class Listrender extends React.Component {
                 {
                     id: 50,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -561,7 +561,7 @@ class Listrender extends React.Component {
                 {
                     id: 51,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -572,7 +572,7 @@ class Listrender extends React.Component {
                 {
                     id: 52,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt',                   
                     price: 5000,
                     originalprice: 2999,
@@ -584,7 +584,7 @@ class Listrender extends React.Component {
                 {
                     id: 53,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 1999,
@@ -595,7 +595,7 @@ class Listrender extends React.Component {
                 {
                     id: 54,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -606,7 +606,7 @@ class Listrender extends React.Component {
                 {
                     id: 55,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -617,7 +617,7 @@ class Listrender extends React.Component {
                 {
                     id: 56,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -628,7 +628,7 @@ class Listrender extends React.Component {
                 {
                     id: 57,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -639,7 +639,7 @@ class Listrender extends React.Component {
                 {
                     id: 58,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -650,7 +650,7 @@ class Listrender extends React.Component {
                 {
                     id: 59,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
@@ -661,7 +661,7 @@ class Listrender extends React.Component {
                 {
                     id: 5,
                     name: 'U.S Polo Assn.',
-                    discription: 'U.S Polo Assn. Dark Green',
+                    discription: 'U.S Polo Assn. Green',
                     subdiscription: 'Regular Fit Cotton Shirt', 
                     price: 5000,
                     originalprice: 2999,
